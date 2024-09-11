@@ -1,4 +1,4 @@
-# goit-pyweb-hw-11
+# goit-pyweb-hw-12
 
 Дані доступу до БД прописані у файлі .env
 
